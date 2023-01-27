@@ -110,5 +110,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 It is time to make some changes. First things first we are going to create a hello world.
 print("Hello, World!)
-
-
+print("Hello, World!)
+print("Hello World!)
